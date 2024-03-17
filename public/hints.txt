@@ -1,0 +1,2 @@
+A weboldal innen indul. Mindíg az index.php-ra érkezik be egy kérés.
+Ide van behúzva a helper ami kiszolgálja a weboldal működéséhez szükséges függvényekkel.

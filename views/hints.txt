@@ -1,0 +1,4 @@
+Miket kell tenni a views mappába ?
+
+Minden ami a megjelenésért felel az ide jön ebbe a mappába.
+A views mappába kerül egy partials nevű mappa 
